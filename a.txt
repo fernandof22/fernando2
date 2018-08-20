@@ -1,3 +1,7 @@
 Soma
 
 Multiplicacao
+
+Divisao
+
+Substracao
